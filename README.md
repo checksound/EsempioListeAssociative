@@ -9,7 +9,7 @@ ALtro esempio di utilizzo nel package `addresslist` per un sistema di lista asso
 Necessita per la classe Customer di reimplementare i metodi `equals()` e `hashCode()` per garantire corretto funzionamento  nella **hash table**. 
 ![hashtable](./hashtable.PNG).
 
-Il metodo **hashCode()** della classe chiave, costituisce restituice valore intero della funzione di hash.
+Il metodo **hashCode()** della classe chiave, restituice valore intero della funzione di hash.
 
 ```java
 package addresslist;
